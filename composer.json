@@ -1,5 +1,7 @@
 {
     "name": "hexlet/code",
+    "description": "This package contains five brain training games",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Hexlet\\Code\\": "src/"
@@ -11,5 +13,8 @@
             "email": "ilolita796@gmail.com"
         }
     ],
+    "bin": [
+        "bin/brain-games"
+      ],
     "require": {}
 }
