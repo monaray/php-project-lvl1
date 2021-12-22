@@ -3,9 +3,9 @@
     "description": "This package contains five brain training games",
     "license": "proprietary",
     "autoload": {
-        "psr-4": {
-            "Hexlet\\Code\\": "src/"
-        }
+        "files": [
+            "src/Cli.php"
+        ]
     },
     "authors": [
         {
@@ -16,5 +16,7 @@
     "bin": [
         "bin/brain-games"
       ],
-    "require": {}
+    "require": {
+        "wp-cli/php-cli-tools": "^0.11.13"
+    }
 }
