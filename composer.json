@@ -5,7 +5,7 @@
     "autoload": {
         "files": [
             "src/Cli.php",
-            "src/Games/Even.php",
+            "src/Games/BrainEvenGame.php",
             "src/Engine.php"
         ]
     },
