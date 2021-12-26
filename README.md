@@ -4,10 +4,8 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![PHP CI](https://github.com/monaray/php-project-lvl1/actions/workflows/workflow.yml/badge.svg)](https://github.com/monaray/php-project-lvl1/actions/workflows/workflow.yml)
 
-## project 1 
-## brain games
+## project 1 - brain games
 5 mini command line games
-
 ### Setup
 ```sh
 $ git clone https://github.com/monaray/php-project-lvl1.git
