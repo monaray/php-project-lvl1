@@ -1,6 +1,6 @@
 <?php
 
-namespace Src\Gamas\BrainEvenGame;
+namespace Src\Games\BrainEvenGame;
 
 use function Src\Engine\EngineGame;
 
