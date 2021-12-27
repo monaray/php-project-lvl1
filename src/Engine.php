@@ -17,9 +17,9 @@ function EngineGame(callable $conditionsGame, string $gameDescription): void
     for ($i = 0; $i < $countRounds; $i++) {
         [$question, $correctAnswer] = $conditionsGame();
         line("Question: %s", $question);
-        $answer = prompt('Your answer: ');
+        $answer = prompt('Your answer ');
 
-        if ($answer === $correctAnswer) {
+        if ($answer == $correctAnswer) {
             line('Correct!');
             $colCorrect++;
         } else {
