@@ -11,7 +11,7 @@ function EngineGame(callable $conditionsGame, string $gameDescription): void
     $name = prompt('May I have your name?');
     line("Hello, %s!", $name);
     line($gameDescription);
-    
+
     $countRounds = 3;
     $colCorrect = 0;
     for ($i = 0; $i < $countRounds; $i++) {
