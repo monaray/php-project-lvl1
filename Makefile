@@ -5,7 +5,7 @@ brain-games:
 autoload:
 	composer dump-autoload
 chmod:
-	chmod +x bin/brain-gcd
+	chmod +x bin/brain-progression
 validate:
 	composer validate
 lint:
@@ -16,3 +16,5 @@ brain-calc:
 	./bin/brain-calc
 brain-gcd:
 	./bin/brain-gcd
+brain-progression:
+	./bin/brain-progression
