@@ -8,6 +8,7 @@
             "src/Games/BrainEvenGame.php",
             "src/Games/BrainCalcGame.php",
             "src/Games/BrainGcd.php",
+            "src/Games/BrainProgression.php",
             "src/Engine.php"
         ]
     },
@@ -21,7 +22,8 @@
         "bin/brain-games",
         "bin/brain-even",
         "bin/brain-calc",
-        "bin/brain-gcd"
+        "bin/brain-gcd",
+        "bin/brain-progression"
       ],
     "require": {
         "wp-cli/php-cli-tools": "^0.11.13"
