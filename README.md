@@ -5,7 +5,13 @@
 [![PHP CI](https://github.com/monaray/php-project-lvl1/actions/workflows/workflow.yml/badge.svg)](https://github.com/monaray/php-project-lvl1/actions/workflows/workflow.yml)
 
 ## project 1 - brain games
-5 mini command line games
+Mind Games is a set of five console games, built on the principle of popular mobile brain training applications. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be passed. Wrong answers end the game and offer to play it again. 
+Games:
+Definition of an even number.
+Calculator. Arithmetic expressions to be evaluated.
+Determination of the greatest common factor.
+Progression. Finds missing numbers in a sequence of numbers.
+Definition of a prime number.
 ### Setup
 ```sh
 $ git clone https://github.com/monaray/php-project-lvl1.git
