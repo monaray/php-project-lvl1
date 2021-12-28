@@ -13,7 +13,8 @@ function Progression(): void
         $progressionStep = random_int(2, 6);
         $randNumbers = [];
         $randNumbers[0] = $firstNumber;
-        for ($i = 0; $i < 9; $i++) {
+        $lengthProgression = 10; 
+        for ($i = 0; $i < $lengthProgression - 1; $i++) {
             $randNumbers[$i + 1] = $randNumbers[$i] + $progressionStep;
         }
         $rand_key = array_rand($randNumbers, 1);
