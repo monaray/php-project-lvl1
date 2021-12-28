@@ -17,3 +17,5 @@ $ make install
 [![asciicast](https://asciinema.org/a/kjVqshZcDDxIQhchUtHY1AZIX.svg)](https://asciinema.org/a/kjVqshZcDDxIQhchUtHY1AZIX)
 #### make brain-calc:
 [![asciicast](https://asciinema.org/a/gwLHSqqfugFD1P6K0FIkjEPrC.svg)](https://asciinema.org/a/gwLHSqqfugFD1P6K0FIkjEPrC)
+#### make brain-gcd:
+[![asciicast](https://asciinema.org/a/qXvlQyrtSAiIMdaqH6uprZFmW.svg)](https://asciinema.org/a/qXvlQyrtSAiIMdaqH6uprZFmW)
