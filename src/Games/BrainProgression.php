@@ -13,7 +13,7 @@ function Progression(): void
         $progressionStep = random_int(2, 6);
         $randNumbers = [];
         $randNumbers[0] = $firstNumber;
-        $lengthProgression = 10; 
+        $lengthProgression = 10;
         for ($i = 0; $i < $lengthProgression - 1; $i++) {
             $randNumbers[$i + 1] = $randNumbers[$i] + $progressionStep;
         }
