@@ -21,3 +21,5 @@ $ make install
 [![asciicast](https://asciinema.org/a/qXvlQyrtSAiIMdaqH6uprZFmW.svg)](https://asciinema.org/a/qXvlQyrtSAiIMdaqH6uprZFmW)
 #### make brain-progression:
 [![asciicast](https://asciinema.org/a/edxH6mQvgT0vvVqNqmzK9Zh1T.svg)](https://asciinema.org/a/edxH6mQvgT0vvVqNqmzK9Zh1T)
+#### make brain-prime:
+[![asciicast](https://asciinema.org/a/9UNo05HgnSUBYvtuKXtT5WGei.svg)](https://asciinema.org/a/9UNo05HgnSUBYvtuKXtT5WGei)
