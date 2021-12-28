@@ -4,8 +4,6 @@ brain-games:
 	./bin/brain-games
 autoload:
 	composer dump-autoload
-chmod:
-	chmod +x bin/brain-progression
 validate:
 	composer validate
 lint:
@@ -18,3 +16,5 @@ brain-gcd:
 	./bin/brain-gcd
 brain-progression:
 	./bin/brain-progression
+brain-prime:
+	./bin/brain-prime
