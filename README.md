@@ -6,6 +6,7 @@
 
 ## project 1 - brain games
 Mind Games is a set of five console games, built on the principle of popular mobile brain training applications. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be passed. Wrong answers end the game and offer to play it again. 
+
 Games:
 * Definition of an even number.
 * Calculator. Arithmetic expressions to be evaluated.
